@@ -1,5 +1,0 @@
-Proje içinde bulunan dosyalar normalizasyon eðitim ve test verileri 
-Yapay Zeka Araba Satýþ Tahmini Raporu
-Proje Ýçin Veriler
------Çalýþtýrýlmasý-----
-Rar uzantýlý dosya çýkarýldýðýnda içerisindeki yapayson.m dosyasý ve sigmoid.m dosyasýný matlab ortamýnda ayný klasörde derleyip çalýþtýrýlýr.
